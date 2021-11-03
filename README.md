@@ -6,9 +6,9 @@
 
 LSTM.py文件为使用Pytorch内包装好的LSTM函数
 
-LSTMLM.py文件为手动实现**<u>单层LSTM</u>**
+LSTMLM.py文件为手动实现**单层LSTM**
 
-doubleLSTMLM.py文件为手动实现**<u>双层LSTM</u>**
+doubleLSTMLM.py文件为手动实现**双层LSTM**
 
 ## 原理讲解
 
