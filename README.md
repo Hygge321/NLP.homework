@@ -2,6 +2,12 @@
 
 本项目在不使用Pytorch包装好的LSTM函数下，实现了在单层LSTM与双层LSTM。
 
+## 运行环境
+
+Python版本：3.7.0
+
+Pytorch版本：1.9.0
+
 ## 文件介绍
 
 LSTM.py文件为使用Pytorch内包装好的LSTM函数
